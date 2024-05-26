@@ -4,9 +4,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Magicb0x&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-Magicb0x/Magicb0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
